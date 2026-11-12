@@ -1,2 +1,1 @@
-# .github
-Active Matter Cheats — aimbot, ESP, wallhack, and loot ESP cheat panel for Active Matter on Windows with radar and anomaly ESP.
+Active Matter Cheats is a Windows cheat panel for Active Matter with aimbot, ESP, wallhack, and loot ESP. It shows players, AI, loot, anomalies, and extraction points through walls in a single overlay menu. The panel loads with a default aimbot and ESP profile and supports per-weapon aim profiles and radar.
